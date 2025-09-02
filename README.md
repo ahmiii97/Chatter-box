@@ -153,5 +153,4 @@ Developed by Ahmed Kamal, Muhammad Qamar
 📧 ahmiii97@gmail.com
 📧 hafizqamar07@gmail.com
 
-🌐 your-website.com
-(optional)
+🌐 stratonally.com
